@@ -1,0 +1,26 @@
+.prtype-cont{
+    padding: 10px;
+    background-color: #eee;
+    border-radius: 5px;
+    border: 1px solid #c9c9c9;
+    margin: 2px;
+}
+
+.canch-conf-prtype{
+    position: absolute;
+    right: 15px;
+    top: 7px;
+}
+
+.canch-conf-prtype a{
+    text-decoration: none;
+    color: #595959;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 8px;
+    transition: all .5s;
+}
+
+.canch-conf-prtype a:hover{
+    box-shadow: 0px 0px 29px 10px #fff;
+}
